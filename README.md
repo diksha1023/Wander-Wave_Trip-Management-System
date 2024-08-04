@@ -1,6 +1,6 @@
 # REST API for - WanderWave: Trip Management System
 
-This application consists of APIs which perform all the fundamental CRUD operations with user validation at every step.
+This web application consists of APIs which perform all the fundamental CRUD operations with user validation at every step.
 
 ## Functionalities
 
